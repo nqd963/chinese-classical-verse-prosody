@@ -1,0 +1,119 @@
+{
+ "dup_dropped": [
+  {
+   "char": "松",
+   "rhyme": "上平二冬"
+  },
+  {
+   "char": "夫",
+   "rhyme": "上平七虞"
+  },
+  {
+   "char": "扶",
+   "rhyme": "上平七虞"
+  },
+  {
+   "char": "昆",
+   "rhyme": "上平十三元"
+  },
+  {
+   "char": "罗",
+   "rhyme": "下平五歌"
+  },
+  {
+   "char": "夸",
+   "rhyme": "下平六麻"
+  },
+  {
+   "char": "球",
+   "rhyme": "下平十一尤"
+  },
+  {
+   "char": "庵",
+   "rhyme": "下平十三覃"
+  },
+  {
+   "char": "占",
+   "rhyme": "下平十四盐"
+  },
+  {
+   "char": "已",
+   "rhyme": "上声四纸"
+  },
+  {
+   "char": "荡",
+   "rhyme": "上声二十二养"
+  },
+  {
+   "char": "后",
+   "rhyme": "上声二十五有"
+  },
+  {
+   "char": "志",
+   "rhyme": "去声四寘"
+  },
+  {
+   "char": "系",
+   "rhyme": "去声八霁"
+  },
+  {
+   "char": "会",
+   "rhyme": "去声九泰"
+  },
+  {
+   "char": "荡",
+   "rhyme": "去声二十三漾"
+  },
+  {
+   "char": "念",
+   "rhyme": "去声二十九艳"
+  },
+  {
+   "char": "复",
+   "rhyme": "入声一屋"
+  },
+  {
+   "char": "谷",
+   "rhyme": "入声一屋"
+  },
+  {
+   "char": "欲",
+   "rhyme": "入声二沃"
+  },
+  {
+   "char": "别",
+   "rhyme": "入声九屑"
+  },
+  {
+   "char": "蔑",
+   "rhyme": "入声九屑"
+  },
+  {
+   "char": "若",
+   "rhyme": "入声十药"
+  },
+  {
+   "char": "辟",
+   "rhyme": "入声十一陌"
+  },
+  {
+   "char": "席",
+   "rhyme": "入声十一陌"
+  },
+  {
+   "char": "百",
+   "rhyme": "入声十一陌"
+  },
+  {
+   "char": "晰",
+   "rhyme": "入声十二锡"
+  },
+  {
+   "char": "熠",
+   "rhyme": "入声十四缉"
+  }
+ ],
+ "non_cjk_hits": [],
+ "schema_version": "1.0",
+ "source_file": "pingshui.json"
+}

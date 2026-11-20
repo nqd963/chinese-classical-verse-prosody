@@ -1,0 +1,25 @@
+{
+ "declared_mismatches": [
+  {
+   "declared": 107,
+   "gap": -1,
+   "id": "A:夜飞鹊:1",
+   "pat_total": 106
+  }
+ ],
+ "noise_dropped": [
+  {
+   "head": "### 《词学十讲》",
+   "line": 1770,
+   "why": "网站噪声标题（C-13）"
+  },
+  {
+   "head": "### 《词学十讲》",
+   "line": 3701,
+   "why": "网站噪声标题（C-13）"
+  }
+ ],
+ "schema_version": "1.0",
+ "source_file": "cipu_long.json",
+ "stray_pat": []
+}

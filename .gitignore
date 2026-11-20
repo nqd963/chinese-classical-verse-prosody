@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.tmprun/
+_e*
+_yj*
+_chain_check*
+_dz_*
+*.zip
+.DS_Store

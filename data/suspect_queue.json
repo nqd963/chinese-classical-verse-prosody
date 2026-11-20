@@ -1,0 +1,32 @@
+{
+ "items": [
+  {
+   "action": "从该韵部剔除（裁决书 §7.3），其余字符保留",
+   "kept": [
+    "二"
+   ],
+   "kind": "polluted_cluster",
+   "raw_cluster": "二近始术瑟德",
+   "reason": "术/瑟/德属入声、始仅上声、近不属去声四寘；多读判定「任一读成立即通过」会放过本应判错的违规",
+   "removed": [
+    "近",
+    "始",
+    "术",
+    "瑟",
+    "德"
+   ],
+   "rhyme": "去声四寘",
+   "source_line": 28
+  },
+  {
+   "as_written": "咸",
+   "class": "第十五类",
+   "kind": "rhyme_name_typo",
+   "reason": "第十五类上声当作『感俭豏』：『咸』属下平十五咸，与同类的去声『勘艷陷』不类",
+   "source_line_range": "918-945",
+   "used": "感"
+  }
+ ],
+ "schema_version": "1.0",
+ "source_file": "pingshui.json"
+}

@@ -1,0 +1,8307 @@
+{
+ "cipai": [
+  {
+   "aka": [
+    "苍梧谣"
+   ],
+   "aliases": [
+    "苍梧谣",
+    "归字谣"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "十六字",
+      16
+     ]
+    ],
+    "chars": 16,
+    "chars_raw": "十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 17,
+   "name": "十六字令",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:十六字令:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 16,
+     "pat_total": 16,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "南柯子"
+   ],
+   "aliases": [
+    "南柯子",
+    "风蝶令"
+   ],
+   "basis": "B 源收的是该调《双调》（52 字），与 A 源《定格》不同体，不构成平仄冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "廿六字",
+      26
+     ]
+    ],
+    "chars": 26,
+    "chars_raw": "廿六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 35,
+   "name": "南歌子",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 1,
+     "id": "A:南歌子:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 2,
+     "opt_slots": 0,
+     "pat_min": 26,
+     "pat_total": 26,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 2,
+     "id": "A:南歌子:2",
+     "kind": "变体",
+     "label": "双调",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 52,
+     "pat_total": 52,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "渔父"
+   ],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "廿七字",
+      27
+     ]
+    ],
+    "chars": 27,
+    "chars_raw": "廿七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 59,
+   "name": "渔歌子",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 1,
+     "id": "A:渔歌子:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 2,
+     "opt_slots": 0,
+     "pat_min": 27,
+     "pat_total": 27,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "望江南"
+   ],
+   "aliases": [
+    "望江南",
+    "梦江南",
+    "江南好"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:忆江南:1 ↔ B:B:007:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "廿七字",
+      27
+     ]
+    ],
+    "chars": 27,
+    "chars_raw": "廿七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 79,
+   "name": "忆江南",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 1,
+     "id": "A:忆江南:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 1,
+     "pat_min": 26,
+     "pat_total": 27,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 2,
+     "id": "A:忆江南:2",
+     "kind": "变体",
+     "label": "双调",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 54,
+     "pat_total": 54,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "二十七字",
+      27
+     ]
+    ],
+    "chars": 27,
+    "chars_raw": "二十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 111,
+   "name": "潇湘神",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:潇湘神:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 27,
+     "pat_total": 27,
+     "repeat_marks": 1,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "深院月"
+   ],
+   "aliases": [
+    "捣练子令",
+    "深院月"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:捣练子:1 ↔ B:B:008:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "二十七字",
+      27
+     ]
+    ],
+    "chars": 27,
+    "chars_raw": "二十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 125,
+   "name": "捣练子",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:捣练子:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 27,
+     "pat_total": 27,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "卖花声"
+   ],
+   "aliases": [
+    "卖花声",
+    "浪淘沙慢"
+   ],
+   "basis": "B 源收的是该调《格二（双调小令）》（54 字），与 A 源《定格》不同体，不构成平仄冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十四字",
+      54
+     ],
+     [
+      "一字",
+      1
+     ],
+     [
+      "百三十四字",
+      134
+     ],
+     [
+      "百三十三字",
+      133
+     ]
+    ],
+    "chars": 133,
+    "chars_raw": "百三十三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": false,
+   "head_line": 149,
+   "name": "浪淘沙",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 3,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:浪淘沙:1",
+     "kind": "变体",
+     "label": "格一（七言绝句式）",
+     "line_count": 2,
+     "opt_slots": 0,
+     "pat_min": 28,
+     "pat_total": 28,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:浪淘沙:2",
+     "kind": "变体",
+     "label": "格二（双调小令）",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 54,
+     "pat_total": 54,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:浪淘沙:3",
+     "kind": "变体",
+     "label": "格三（商调慢曲）",
+     "line_count": 16,
+     "opt_slots": 0,
+     "pat_min": 133,
+     "pat_total": 133,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十字",
+      30
+     ]
+    ],
+    "chars": 30,
+    "chars_raw": "三十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 214,
+   "name": "江南春",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:江南春:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 30,
+     "pat_total": 30,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "荳叶黄"
+   ],
+   "aliases": [
+    "荳叶黄",
+    "阑干万里心"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:忆王孙:1 ↔ B:B:037:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十一字",
+      31
+     ]
+    ],
+    "chars": 31,
+    "chars_raw": "三十一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 228,
+   "name": "忆王孙",
+   "rhyme_types": [
+    "五平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:忆王孙:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 31,
+     "pat_total": 31,
+     "repeat_marks": 0,
+     "rhyme_desc": "五平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "江神子"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十五字",
+      35
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 35,
+    "chars_raw": "三十五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 246,
+   "name": "江城子",
+   "rhyme_types": [
+    "五平韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:江城子:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 35,
+     "pat_total": 35,
+     "repeat_marks": 0,
+     "rhyme_desc": "五平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:江城子:2",
+     "kind": "变体",
+     "label": "双调",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 70,
+     "pat_total": 70,
+     "repeat_marks": 0,
+     "rhyme_desc": "五平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "双红豆"
+   ],
+   "aliases": [
+    "双红豆"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:长相思:1 ↔ B:B:004:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十六字",
+      36
+     ]
+    ],
+    "chars": 36,
+    "chars_raw": "三十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 282,
+   "name": "长相思",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:长相思:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 36,
+     "pat_total": 36,
+     "repeat_marks": 2,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:醉太平:1 ↔ B:B:062:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十八字",
+      38
+     ],
+     [
+      "三字",
+      3
+     ],
+     [
+      "四字",
+      4
+     ]
+    ],
+    "chars": 38,
+    "chars_raw": "三十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 302,
+   "name": "醉太平",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:醉太平:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 2,
+     "opt_slots": 0,
+     "pat_min": 38,
+     "pat_total": 38,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十一字",
+      41
+     ],
+     [
+      "九十九字",
+      99
+     ]
+    ],
+    "chars": 99,
+    "chars_raw": "九十九字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": false,
+   "head_line": 314,
+   "name": "玉蝴蝶",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:玉蝴蝶:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 41,
+     "pat_total": 41,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:玉蝴蝶:2",
+     "kind": "变体",
+     "label": "格二（慢调）",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 99,
+     "pat_total": 99,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "山花子"
+   ],
+   "aliases": [
+    "摊破浣溪沙",
+    "山花子"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突；另：已裁定的括号注体式与 B 源比对不一致",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十二字",
+      42
+     ],
+     [
+      "三字",
+      3
+     ]
+    ],
+    "chars": 42,
+    "chars_raw": "四十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "二等",
+   "has_dingge": false,
+   "head_line": 356,
+   "name": "浣溪沙",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 1,
+     "id": "A:浣溪沙:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 42,
+     "pat_total": 42,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:浣溪沙:2",
+     "kind": "变体",
+     "label": "格二（摊破浣溪沙）",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 48,
+     "pat_total": 48,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十四字",
+      44
+     ]
+    ],
+    "chars": 44,
+    "chars_raw": "四十四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 382,
+   "name": "巫山一段云",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:巫山一段云:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 44,
+     "pat_total": 44,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "丑奴儿令"
+   ],
+   "aliases": [
+    "丑奴儿令",
+    "罗敷艳歌",
+    "罗敷媚"
+   ],
+   "basis": "B 源收的是该调《格一》（44 字），与 A 源《定格》不同体，不构成平仄冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十四字",
+      44
+     ],
+     [
+      "二字",
+      2
+     ]
+    ],
+    "chars": 44,
+    "chars_raw": "四十四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": false,
+   "head_line": 398,
+   "name": "采桑子",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:采桑子:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 44,
+     "pat_total": 44,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:采桑子:2",
+     "kind": "变体",
+     "label": "格二（添字）",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 48,
+     "pat_total": 48,
+     "repeat_marks": 2,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "B 源 45 字，A 源该调 2 个体式字数均不符（44/33）→ 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": "定格 44/别格 33",
+     "B 源判定": "45 字（B:021:1）",
+     "kind": "字数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "诉衷情"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "四十四字",
+      44
+     ],
+     [
+      "三十三字",
+      33
+     ]
+    ],
+    "chars": 33,
+    "chars_raw": "三十三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 424,
+   "name": "诉衷情",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:诉衷情:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 44,
+     "pat_total": 44,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:诉衷情:2",
+     "kind": "变体",
+     "label": "别格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 33,
+     "pat_total": 33,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:画堂春:1 ↔ B:B:035:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十七字",
+      47
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 47,
+    "chars_raw": "四十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 450,
+   "name": "画堂春",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:画堂春:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 47,
+     "pat_total": 47,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "醉桃源"
+   ],
+   "aliases": [
+    "醉桃源",
+    "碧桃春"
+   ],
+   "basis": "平仄一致但韵位数 8≠7 → 降级",
+   "conflicts": [
+    {
+     "A 源判定": "8 韵",
+     "B 源判定": "7 韵",
+     "kind": "韵位数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级",
+     "裁定人": "未裁定",
+     "词牌": "阮郎归"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "四十七字",
+      47
+     ]
+    ],
+    "chars": 47,
+    "chars_raw": "四十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 472,
+   "name": "阮郎归",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:阮郎归:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 47,
+     "pat_total": 47,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十八字",
+      48
+     ]
+    ],
+    "chars": 48,
+    "chars_raw": "四十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 488,
+   "name": "三字令",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:三字令:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 48,
+     "pat_total": 48,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十八字",
+      48
+     ]
+    ],
+    "chars": 48,
+    "chars_raw": "四十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 512,
+   "name": "朝中措",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:朝中措:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 48,
+     "pat_total": 48,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "秋波媚"
+   ],
+   "aliases": [
+    "秋波媚"
+   ],
+   "basis": "归一比对发现 2 处平仄差异（最接近体式《定格》），未裁定 → 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:093:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 2 字",
+      "序": 2
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "眼儿媚"
+    },
+    {
+     "A 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "B源条目": "B:093:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 4 字",
+      "序": 4
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "眼儿媚"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "四十八字",
+      48
+     ]
+    ],
+    "chars": 48,
+    "chars_raw": "四十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 528,
+   "name": "眼儿媚",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:眼儿媚:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 48,
+     "pat_total": 48,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "青衫湿"
+   ],
+   "aliases": [
+    "青衫湿"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:人月圆:1 ↔ B:B:082:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十八字",
+      48
+     ]
+    ],
+    "chars": 48,
+    "chars_raw": "四十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": null
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 546,
+   "name": "人月圆",
+   "rhyme_types": [],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:人月圆:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 48,
+     "pat_total": 48,
+     "repeat_marks": 0,
+     "rhyme_desc": null
+    }
+   ]
+  },
+  {
+   "aka": [
+    "陇头月"
+   ],
+   "aliases": [
+    "陇头月"
+   ],
+   "basis": "归一比对发现 1 处平仄差异（最接近体式《别格》），未裁定 → 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "别格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:095:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 36 字",
+      "序": 36
+     },
+     "体式": "别格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "柳梢青"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "四十九字",
+      49
+     ],
+     [
+      "十二字",
+      12
+     ]
+    ],
+    "chars": 49,
+    "chars_raw": "四十九字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 566,
+   "name": "柳梢青",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:柳梢青:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 49,
+     "pat_total": 49,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:柳梢青:2",
+     "kind": "变体",
+     "label": "别格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 49,
+     "pat_total": 49,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十九字",
+      49
+     ],
+     [
+      "二字",
+      2
+     ]
+    ],
+    "chars": 49,
+    "chars_raw": "四十九字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 600,
+   "name": "太常引",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:太常引:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 49,
+     "pat_total": 49,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十字",
+      50
+     ],
+     [
+      "五十一字",
+      51
+     ]
+    ],
+    "chars": 51,
+    "chars_raw": "五十一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 620,
+   "name": "少年游",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 4,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:少年游:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 50,
+     "pat_total": 50,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:少年游:2",
+     "kind": "变体",
+     "label": "别格一",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 51,
+     "pat_total": 51,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:少年游:3",
+     "kind": "变体",
+     "label": "别格二",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 51,
+     "pat_total": 51,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:少年游:4",
+     "kind": "变体",
+     "label": "别格三",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 51,
+     "pat_total": 51,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "B 源有同名多条条目（3 条），体式对应关系未裁定，暂降级",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十八字",
+      58
+     ],
+     [
+      "二字",
+      2
+     ],
+     [
+      "九十三字",
+      93
+     ]
+    ],
+    "chars": 93,
+    "chars_raw": "九十三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "二等",
+   "has_dingge": false,
+   "head_line": 674,
+   "name": "临江仙",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 4,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:临江仙:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 58,
+     "pat_total": 58,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:临江仙:2",
+     "kind": "变体",
+     "label": "格二",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 58,
+     "pat_total": 58,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:临江仙:3",
+     "kind": "变体",
+     "label": "格三",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 60,
+     "pat_total": 60,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:临江仙:4",
+     "kind": "变体",
+     "label": "格四（仙吕调慢曲）",
+     "line_count": 11,
+     "opt_slots": 0,
+     "pat_min": 93,
+     "pat_total": 93,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "思佳客"
+   ],
+   "aliases": [
+    "思佳客",
+    "思越人"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:鹧鸪天:1 ↔ B:B:081:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十五字",
+      55
+     ]
+    ],
+    "chars": 55,
+    "chars_raw": "五十五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 758,
+   "name": "鹧鸪天",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 2,
+     "id": "A:鹧鸪天:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 5,
+     "opt_slots": 0,
+     "pat_min": 55,
+     "pat_total": 55,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "小重山令"
+   ],
+   "aliases": [
+    "小重山令"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十八字",
+      58
+     ]
+    ],
+    "chars": 58,
+    "chars_raw": "五十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 782,
+   "name": "小重山",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:小重山:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 58,
+     "pat_total": 58,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十字",
+      60
+     ]
+    ],
+    "chars": 60,
+    "chars_raw": "六十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 806,
+   "name": "一剪梅",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:一剪梅:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 60,
+     "pat_total": 60,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "南楼令"
+   ],
+   "aliases": [
+    "糖多令",
+    "南楼令"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十字",
+      60
+     ]
+    ],
+    "chars": 60,
+    "chars_raw": "六十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 826,
+   "name": "唐多令",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:唐多令:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 60,
+     "pat_total": 60,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "十拍子"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十二字",
+      62
+     ]
+    ],
+    "chars": 62,
+    "chars_raw": "六十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 852,
+   "name": "破阵子",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:破阵子:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 62,
+     "pat_total": 62,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十五字",
+      65
+     ]
+    ],
+    "chars": 65,
+    "chars_raw": "六十五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 873,
+   "name": "喝火令",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:喝火令:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 7,
+     "opt_slots": 0,
+     "pat_min": 65,
+     "pat_total": 65,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十六字",
+      66
+     ]
+    ],
+    "chars": 66,
+    "chars_raw": "六十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 895,
+   "name": "行香子",
+   "rhyme_types": [
+    "五平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:行香子:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 3,
+     "pat_min": 63,
+     "pat_total": 66,
+     "repeat_marks": 0,
+     "rhyme_desc": "五平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:风入松:1 ↔ B:B:067:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "七十六字",
+      76
+     ]
+    ],
+    "chars": 76,
+    "chars_raw": "七十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 925,
+   "name": "风入松",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:风入松:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 76,
+     "pat_total": 76,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "铜人捧露盘引"
+   ],
+   "aliases": [
+    "铜人捧露盘引",
+    "上西平",
+    "西平曲"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "八十一字",
+      81
+     ],
+     [
+      "三字",
+      3
+     ]
+    ],
+    "chars": 81,
+    "chars_raw": "八十一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 947,
+   "name": "金人捧露盘",
+   "rhyme_types": [
+    "五平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 1,
+     "id": "A:金人捧露盘:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 81,
+     "pat_total": 81,
+     "repeat_marks": 0,
+     "rhyme_desc": "五平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十字",
+      90
+     ],
+     [
+      "八十八字",
+      88
+     ]
+    ],
+    "chars": 88,
+    "chars_raw": "八十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 982,
+   "name": "八六子",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 3,
+     "id": "A:八六子:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 5,
+     "opt_slots": 0,
+     "pat_min": 88,
+     "pat_total": 88,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十四字",
+      94
+     ]
+    ],
+    "chars": 94,
+    "chars_raw": "九十四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1002,
+   "name": "雪梅香",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:雪梅香:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 94,
+     "pat_total": 94,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "锁阳台"
+   ],
+   "aliases": [
+    "锁阳台"
+   ],
+   "basis": "归一比对发现 2 处平仄差异（最接近体式《定格》），未裁定 → 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:042:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 64 字",
+      "序": 64
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "满庭芳"
+    },
+    {
+     "A 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "B源条目": "B:042:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 66 字",
+      "序": 66
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "满庭芳"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "九十五字",
+      95
+     ],
+     [
+      "二字",
+      2
+     ]
+    ],
+    "chars": 95,
+    "chars_raw": "九十五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 1036,
+   "name": "满庭芳",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:满庭芳:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 95,
+     "pat_total": 95,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "B 源有同名多条条目（5 条），体式对应关系未裁定，暂降级",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十五字",
+      95
+     ]
+    ],
+    "chars": 95,
+    "chars_raw": "九十五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 1066,
+   "name": "水调歌头",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 1,
+     "id": "A:水调歌头:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 95,
+     "pat_total": 95,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:凤凰台上忆吹箫:1 ↔ B:B:077:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十五字",
+      95
+     ]
+    ],
+    "chars": 95,
+    "chars_raw": "九十五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1096,
+   "name": "凤凰台上忆吹箫",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:凤凰台上忆吹箫:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 95,
+     "pat_total": 95,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十六字",
+      96
+     ]
+    ],
+    "chars": 96,
+    "chars_raw": "九十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1120,
+   "name": "汉宫春",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:汉宫春:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 96,
+     "pat_total": 96,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "甘州"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十七字",
+      97
+     ]
+    ],
+    "chars": 97,
+    "chars_raw": "九十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "八韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1152,
+   "name": "八声甘州",
+   "rhyme_types": [
+    "八韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:八声甘州:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 97,
+     "pat_total": 97,
+     "repeat_marks": 0,
+     "rhyme_desc": "八韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十八字",
+      98
+     ]
+    ],
+    "chars": 98,
+    "chars_raw": "九十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1182,
+   "name": "扬州慢",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:扬州慢:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 98,
+     "pat_total": 98,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "庆春泽"
+   ],
+   "aliases": [
+    "庆春泽"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百字",
+      100
+     ],
+     [
+      "三字",
+      3
+     ]
+    ],
+    "chars": 100,
+    "chars_raw": "一百字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1216,
+   "name": "高阳台",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:高阳台:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 100,
+     "pat_total": 100,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百一字",
+      101
+     ]
+    ],
+    "chars": 101,
+    "chars_raw": "一百一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1240,
+   "name": "锦堂春慢",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:锦堂春慢:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 101,
+     "pat_total": 101,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百一字",
+      101
+     ]
+    ],
+    "chars": 101,
+    "chars_raw": "一百一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "六平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1268,
+   "name": "寿楼春",
+   "rhyme_types": [
+    "六平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:寿楼春:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 12,
+     "opt_slots": 0,
+     "pat_min": 101,
+     "pat_total": 101,
+     "repeat_marks": 0,
+     "rhyme_desc": "六平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百二字",
+      102
+     ],
+     [
+      "二字",
+      2
+     ]
+    ],
+    "chars": 102,
+    "chars_raw": "一百二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1306,
+   "name": "忆旧游",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:忆旧游:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 102,
+     "pat_total": 102,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百七字",
+      107
+     ]
+    ],
+    "chars": 107,
+    "chars_raw": "一百七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1332,
+   "name": "夜飞鹊",
+   "rhyme_types": [
+    "五平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": false,
+     "duizhang_marks": 0,
+     "id": "A:夜飞鹊:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 106,
+     "pat_total": 106,
+     "repeat_marks": 0,
+     "rhyme_desc": "五平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "B 源有同名多条条目（3 条），体式对应关系未裁定，暂降级",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百七字",
+      107
+     ],
+     [
+      "二字",
+      2
+     ]
+    ],
+    "chars": 107,
+    "chars_raw": "一百七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五平韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 1360,
+   "name": "望海潮",
+   "rhyme_types": [
+    "五平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 2,
+     "id": "A:望海潮:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 11,
+     "opt_slots": 0,
+     "pat_min": 107,
+     "pat_total": 107,
+     "repeat_marks": 0,
+     "rhyme_desc": "五平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "寿星明"
+   ],
+   "aliases": [
+    "寿星明"
+   ],
+   "basis": "平仄一致但韵位数 10≠9 → 降级",
+   "conflicts": [
+    {
+     "A 源判定": "10 韵",
+     "B 源判定": "9 韵",
+     "kind": "韵位数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级",
+     "裁定人": "未裁定",
+     "词牌": "沁园春"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "一百十四字",
+      114
+     ]
+    ],
+    "chars": 114,
+    "chars_raw": "一百十四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 1396,
+   "name": "沁园春",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 2,
+     "id": "A:沁园春:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 114,
+     "pat_total": 114,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "绿头鸭"
+   ],
+   "aliases": [
+    "绿头鸭",
+    "鸭头绿"
+   ],
+   "basis": "平仄一致但韵位数 11≠12 → 降级",
+   "conflicts": [
+    {
+     "A 源判定": "11 韵",
+     "B 源判定": "12 韵",
+     "kind": "韵位数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级",
+     "裁定人": "未裁定",
+     "词牌": "多丽"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "百三十九字",
+      139
+     ]
+    ],
+    "chars": 139,
+    "chars_raw": "百三十九字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "六平韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 1422,
+   "name": "多丽",
+   "rhyme_types": [
+    "六平韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:多丽:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 11,
+     "opt_slots": 0,
+     "pat_min": 139,
+     "pat_total": 139,
+     "repeat_marks": 0,
+     "rhyme_desc": "六平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:多丽:2",
+     "kind": "变体",
+     "label": "变格（入声韵）",
+     "line_count": 11,
+     "opt_slots": 0,
+     "pat_min": 139,
+     "pat_total": 139,
+     "repeat_marks": 0,
+     "rhyme_desc": "六平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "百四十三字",
+      143
+     ]
+    ],
+    "chars": 143,
+    "chars_raw": "百四十三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "八平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1486,
+   "name": "六州歌头",
+   "rhyme_types": [
+    "八平韵"
+   ],
+   "variant_count": 3,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:六州歌头:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 15,
+     "opt_slots": 0,
+     "pat_min": 143,
+     "pat_total": 143,
+     "repeat_marks": 0,
+     "rhyme_desc": "八平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:六州歌头:2",
+     "kind": "变体",
+     "label": "格二（平仄韵互叶）",
+     "line_count": 11,
+     "opt_slots": 0,
+     "pat_min": 143,
+     "pat_total": 143,
+     "repeat_marks": 0,
+     "rhyme_desc": "八平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:六州歌头:3",
+     "kind": "变体",
+     "label": "格三（平仄韵换叶）",
+     "line_count": 12,
+     "opt_slots": 0,
+     "pat_min": 143,
+     "pat_total": 143,
+     "repeat_marks": 0,
+     "rhyme_desc": "八平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "忆仙姿"
+   ],
+   "aliases": [
+    "忆仙姿",
+    "宴桃源"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:如梦令:1 ↔ B:B:038:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十三字",
+      33
+     ]
+    ],
+    "chars": 33,
+    "chars_raw": "三十三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1574,
+   "name": "如梦令",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:如梦令:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 33,
+     "pat_total": 33,
+     "repeat_marks": 1,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "归国谣"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十四字",
+      34
+     ]
+    ],
+    "chars": 34,
+    "chars_raw": "三十四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1588,
+   "name": "归自谣",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:归自谣:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 34,
+     "pat_total": 34,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "B 源收的是该调《格二》（68 字），与 A 源《定格》不同体，不构成平仄冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十四字",
+      34
+     ]
+    ],
+    "chars": 34,
+    "chars_raw": "三十四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": false,
+   "head_line": 1606,
+   "name": "天仙子",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:天仙子:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 2,
+     "opt_slots": 0,
+     "pat_min": 34,
+     "pat_total": 34,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:天仙子:2",
+     "kind": "变体",
+     "label": "格二",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 68,
+     "pat_total": 68,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "B 源收的是该调《格二》（40 字），与 A 源《定格》不同体，不构成平仄冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十字",
+      40
+     ]
+    ],
+    "chars": 40,
+    "chars_raw": "四十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": null
+   },
+   "grade": "一等",
+   "has_dingge": false,
+   "head_line": 1632,
+   "name": "生查子",
+   "rhyme_types": [],
+   "variant_count": 3,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:生查子:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 40,
+     "pat_total": 40,
+     "repeat_marks": 0,
+     "rhyme_desc": null
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:生查子:2",
+     "kind": "变体",
+     "label": "格二",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 40,
+     "pat_total": 40,
+     "repeat_marks": 0,
+     "rhyme_desc": null
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:生查子:3",
+     "kind": "变体",
+     "label": "格三",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 40,
+     "pat_total": 40,
+     "repeat_marks": 0,
+     "rhyme_desc": null
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十一字",
+      41
+     ]
+    ],
+    "chars": 41,
+    "chars_raw": "四十一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1668,
+   "name": "醉花间",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:醉花间:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 41,
+     "pat_total": 41,
+     "repeat_marks": 1,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "平仄一致但韵位数 8≠7 → 降级",
+   "conflicts": [
+    {
+     "A 源判定": "8 韵",
+     "B 源判定": "7 韵",
+     "kind": "韵位数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级",
+     "裁定人": "未裁定",
+     "词牌": "点绛唇"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "四十一字",
+      41
+     ]
+    ],
+    "chars": 41,
+    "chars_raw": "四十一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 1684,
+   "name": "点绛唇",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:点绛唇:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 41,
+     "pat_total": 41,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "月当窗"
+   ],
+   "aliases": [
+    "月当窗"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十三字",
+      43
+     ]
+    ],
+    "chars": 43,
+    "chars_raw": "四十三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1702,
+   "name": "霜天晓角",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:霜天晓角:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 43,
+     "pat_total": 43,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:霜天晓角:2",
+     "kind": "变体",
+     "label": "变格",
+     "line_count": 5,
+     "opt_slots": 0,
+     "pat_min": 43,
+     "pat_total": 43,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十三字",
+      43
+     ]
+    ],
+    "chars": 43,
+    "chars_raw": "四十三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1730,
+   "name": "伤春怨",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:伤春怨:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 43,
+     "pat_total": 43,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "卜算子慢"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:卜算子:1 ↔ B:B:030:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十四字",
+      44
+     ],
+     [
+      "三字",
+      3
+     ],
+     [
+      "八十九字",
+      89
+     ]
+    ],
+    "chars": 44,
+    "chars_raw": "四十四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1756,
+   "name": "卜算子",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:卜算子:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 44,
+     "pat_total": 44,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源无谱（仅清单登记），不得作为机器校验依据",
+   "conflicts": [],
+   "declared": {
+    "candidates": [],
+    "chars": null,
+    "chars_raw": null,
+    "rhyme_desc": null
+   },
+   "grade": "二等",
+   "has_dingge": false,
+   "head_line": 1770,
+   "name": "慢曲",
+   "rhyme_types": [],
+   "variant_count": 0,
+   "variants": []
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:谒金门:1 ↔ B:B:013:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十五字",
+      45
+     ]
+    ],
+    "chars": 45,
+    "chars_raw": "四十五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1798,
+   "name": "谒金门",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:谒金门:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 45,
+     "pat_total": 45,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "钓船笛"
+   ],
+   "aliases": [
+    "钓船笛"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:好事近:1 ↔ B:B:055:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十五字",
+      45
+     ]
+    ],
+    "chars": 45,
+    "chars_raw": "四十五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": null
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1818,
+   "name": "好事近",
+   "rhyme_types": [],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:好事近:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 45,
+     "pat_total": 45,
+     "repeat_marks": 0,
+     "rhyme_desc": null
+    }
+   ]
+  },
+  {
+   "aka": [
+    "十二时"
+   ],
+   "aliases": [
+    "十二时"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十六字",
+      46
+     ]
+    ],
+    "chars": 46,
+    "chars_raw": "四十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1838,
+   "name": "忆少年",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:忆少年:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 46,
+     "pat_total": 46,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "秦楼月"
+   ],
+   "aliases": [
+    "秦楼月"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:忆秦娥:1 ↔ B:B:002:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十六字",
+      46
+     ]
+    ],
+    "chars": 46,
+    "chars_raw": "四十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1854,
+   "name": "忆秦娥",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:忆秦娥:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 46,
+     "pat_total": 46,
+     "repeat_marks": 2,
+     "rhyme_desc": "三仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:忆秦娥:2",
+     "kind": "变体",
+     "label": "变格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 46,
+     "pat_total": 46,
+     "repeat_marks": 2,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "忆故人"
+   ],
+   "basis": "归一比对发现 1 处平仄差异（最接近体式《格二（慢曲）》），未裁定 → 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "格二（慢曲）",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:047:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 47 字",
+      "序": 47
+     },
+     "体式": "格二（慢曲）",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "烛影摇红"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "五十字",
+      50
+     ],
+     [
+      "九十六字",
+      96
+     ]
+    ],
+    "chars": 96,
+    "chars_raw": "九十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "二仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": false,
+   "head_line": 1880,
+   "name": "烛影摇红",
+   "rhyme_types": [
+    "二仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:烛影摇红:1",
+     "kind": "变体",
+     "label": "格一（忆故人）",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 50,
+     "pat_total": 50,
+     "repeat_marks": 0,
+     "rhyme_desc": "二仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:烛影摇红:2",
+     "kind": "变体",
+     "label": "格二（慢曲）",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 96,
+     "pat_total": 96,
+     "repeat_marks": 0,
+     "rhyme_desc": "二仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:醉花阴:1 ↔ B:B:076:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十二字",
+      52
+     ]
+    ],
+    "chars": 52,
+    "chars_raw": "五十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1914,
+   "name": "醉花阴",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:醉花阴:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 52,
+     "pat_total": 52,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十二字",
+      52
+     ]
+    ],
+    "chars": 52,
+    "chars_raw": "五十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 1932,
+   "name": "望江东",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:望江东:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 52,
+     "pat_total": 52,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "玉楼春",
+    "减字木兰花",
+    "偷声木兰花",
+    "木兰花慢",
+    "木兰花令"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十五字",
+      55
+     ],
+     [
+      "五十六字",
+      56
+     ],
+     [
+      "四十四字",
+      44
+     ],
+     [
+      "三字",
+      3
+     ],
+     [
+      "五十字",
+      50
+     ],
+     [
+      "三字",
+      3
+     ],
+     [
+      "一百一字",
+      101
+     ]
+    ],
+    "chars": 101,
+    "chars_raw": "一百一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": false,
+   "head_line": 1954,
+   "name": "木兰花",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 5,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:木兰花:1",
+     "kind": "变体",
+     "label": "格一（仄韵换韵格）",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 55,
+     "pat_total": 55,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:木兰花:2",
+     "kind": "变体",
+     "label": "格二（仄韵定格）",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 56,
+     "pat_total": 56,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:木兰花:3",
+     "kind": "变体",
+     "label": "格三（减字木兰花）",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 44,
+     "pat_total": 44,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:木兰花:4",
+     "kind": "变体",
+     "label": "格四（偷声木兰花）",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 50,
+     "pat_total": 50,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:木兰花:5",
+     "kind": "变体",
+     "label": "格五（木兰花慢）",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 101,
+     "pat_total": 101,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "平仄一致但韵位数 8≠4 → 降级",
+   "conflicts": [
+    {
+     "A 源判定": "8 韵",
+     "B 源判定": "4 韵",
+     "kind": "韵位数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级",
+     "裁定人": "未裁定",
+     "词牌": "鹊桥仙"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "三十二字",
+      32
+     ],
+     [
+      "五十六字",
+      56
+     ]
+    ],
+    "chars": 56,
+    "chars_raw": "五十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 2022,
+   "name": "鹊桥仙",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:鹊桥仙:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 56,
+     "pat_total": 56,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十七字",
+      57
+     ]
+    ],
+    "chars": 57,
+    "chars_raw": "五十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2038,
+   "name": "夜游宫",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:夜游宫:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 57,
+     "pat_total": 57,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "转调踏莎行"
+   ],
+   "basis": "B 源收的是该调《格一》（58 字），与 A 源《定格》不同体，不构成平仄冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十八字",
+      58
+     ],
+     [
+      "六十六字",
+      66
+     ]
+    ],
+    "chars": 66,
+    "chars_raw": "六十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": false,
+   "head_line": 2062,
+   "name": "踏莎行",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 2,
+     "id": "A:踏莎行:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 58,
+     "pat_total": 58,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:踏莎行:2",
+     "kind": "变体",
+     "label": "格二（转调踏莎行）",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 65,
+     "pat_total": 65,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "折红英"
+   ],
+   "aliases": [
+    "折红英"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十字",
+      60
+     ]
+    ],
+    "chars": 60,
+    "chars_raw": "六十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "七仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2096,
+   "name": "钗头凤",
+   "rhyme_types": [
+    "七仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:钗头凤:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 60,
+     "pat_total": 60,
+     "repeat_marks": 4,
+     "rhyme_desc": "七仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "鹊踏枝"
+   ],
+   "aliases": [
+    "鹊踏枝",
+    "凤栖梧"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:蝶恋花:1 ↔ B:B:032:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十字",
+      60
+     ]
+    ],
+    "chars": 60,
+    "chars_raw": "六十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2120,
+   "name": "蝶恋花",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:蝶恋花:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 60,
+     "pat_total": 60,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:渔家傲:1 ↔ B:B:017:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十二字",
+      62
+     ]
+    ],
+    "chars": 62,
+    "chars_raw": "六十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2144,
+   "name": "渔家傲",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:渔家傲:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 62,
+     "pat_total": 62,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:苏幕遮:1 ↔ B:B:018:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十二字",
+      62
+     ]
+    ],
+    "chars": 62,
+    "chars_raw": "六十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2164,
+   "name": "苏幕遮",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:苏幕遮:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 62,
+     "pat_total": 62,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十五字",
+      65
+     ]
+    ],
+    "chars": 65,
+    "chars_raw": "六十五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2189,
+   "name": "淡黄柳",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:淡黄柳:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 7,
+     "opt_slots": 0,
+     "pat_min": 65,
+     "pat_total": 65,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "锦缠头"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:锦缠道:1 ↔ B:B:019:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十六字",
+      66
+     ]
+    ],
+    "chars": 66,
+    "chars_raw": "六十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2211,
+   "name": "锦缠道",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:锦缠道:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 7,
+     "opt_slots": 0,
+     "pat_min": 66,
+     "pat_total": 66,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十六字",
+      66
+     ]
+    ],
+    "chars": 66,
+    "chars_raw": "六十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2233,
+   "name": "酷相思",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:酷相思:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 10,
+     "opt_slots": 0,
+     "pat_min": 66,
+     "pat_total": 66,
+     "repeat_marks": 2,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "B 源 67 字，A 源该调 1 个体式字数均不符（66）→ 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": "定格 66",
+     "B 源判定": "67 字（B:096:1）",
+     "kind": "字数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "解佩令"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "六十六字",
+      66
+     ]
+    ],
+    "chars": 66,
+    "chars_raw": "六十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 2261,
+   "name": "解佩令",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:解佩令:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 66,
+     "pat_total": 66,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十七字",
+      67
+     ]
+    ],
+    "chars": 67,
+    "chars_raw": "六十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2285,
+   "name": "青玉案",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:青玉案:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 67,
+     "pat_total": 67,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "千秋岁引"
+   ],
+   "basis": "B 源收的是该调《格一》（71 字），与 A 源《定格》不同体，不构成平仄冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "七十一字",
+      71
+     ],
+     [
+      "八十二字",
+      82
+     ]
+    ],
+    "chars": 82,
+    "chars_raw": "八十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": false,
+   "head_line": 2305,
+   "name": "千秋岁",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:千秋岁:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 71,
+     "pat_total": 71,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:千秋岁:2",
+     "kind": "变体",
+     "label": "格二（千秋岁引）",
+     "line_count": 7,
+     "opt_slots": 0,
+     "pat_min": 82,
+     "pat_total": 82,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "离亭宴"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:离亭燕:1 ↔ B:B:020:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "七十七字",
+      77
+     ],
+     [
+      "七十二字",
+      72
+     ]
+    ],
+    "chars": 72,
+    "chars_raw": "七十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2345,
+   "name": "离亭燕",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:离亭燕:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 72,
+     "pat_total": 72,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "七十二字",
+      72
+     ]
+    ],
+    "chars": 72,
+    "chars_raw": "七十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2365,
+   "name": "粉蝶儿",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:粉蝶儿:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 7,
+     "opt_slots": 0,
+     "pat_min": 72,
+     "pat_total": 72,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "孤雁儿"
+   ],
+   "aliases": [
+    "孤雁儿"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:御街行:1 ↔ B:B:016:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "七十八字",
+      78
+     ]
+    ],
+    "chars": 78,
+    "chars_raw": "七十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2391,
+   "name": "御街行",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:御街行:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 1,
+     "pat_min": 77,
+     "pat_total": 78,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "月底修箫谱"
+   ],
+   "aliases": [
+    "祝英台令",
+    "月底修箫谱"
+   ],
+   "basis": "B 源 78 字，A 源该调 1 个体式字数均不符（77）→ 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": "定格 77",
+     "B 源判定": "78 字（B:058:1）",
+     "kind": "字数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "祝英台近"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "七十七字",
+      77
+     ]
+    ],
+    "chars": 77,
+    "chars_raw": "七十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 2421,
+   "name": "祝英台近",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:祝英台近:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 77,
+     "pat_total": 77,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "上阳春"
+   ],
+   "aliases": [
+    "上阳春"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:蓦山溪:1 ↔ B:B:036:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "八十二字",
+      82
+     ]
+    ],
+    "chars": 82,
+    "chars_raw": "八十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "六仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2442,
+   "name": "蓦山溪",
+   "rhyme_types": [
+    "六仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:蓦山溪:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 82,
+     "pat_total": 82,
+     "repeat_marks": 0,
+     "rhyme_desc": "六仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:蓦山溪:2",
+     "kind": "变体",
+     "label": "变格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 82,
+     "pat_total": 82,
+     "repeat_marks": 0,
+     "rhyme_desc": "六仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:洞仙歌:1 ↔ B:B:031:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "八十三字",
+      83
+     ]
+    ],
+    "chars": 83,
+    "chars_raw": "八十三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2480,
+   "name": "洞仙歌",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:洞仙歌:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 6,
+     "opt_slots": 0,
+     "pat_min": 83,
+     "pat_total": 83,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "八十八字",
+      88
+     ]
+    ],
+    "chars": 88,
+    "chars_raw": "八十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2500,
+   "name": "惜红衣",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:惜红衣:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 88,
+     "pat_total": 88,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十二字",
+      92
+     ]
+    ],
+    "chars": 92,
+    "chars_raw": "九十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2526,
+   "name": "法曲献仙音",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:法曲献仙音:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 92,
+     "pat_total": 92,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对发现 1 处平仄差异（最接近体式《定格》），未裁定 → 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:086:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 52 字",
+      "序": 52
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "满江红"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "九十三字",
+      93
+     ]
+    ],
+    "chars": 93,
+    "chars_raw": "九十三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 2562,
+   "name": "满江红",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 3,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:满江红:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 93,
+     "pat_total": 93,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:满江红:2",
+     "kind": "变体",
+     "label": "变格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 94,
+     "pat_total": 94,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:满江红:3",
+     "kind": "变体",
+     "label": "变格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 93,
+     "pat_total": 93,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十六字",
+      96
+     ]
+    ],
+    "chars": 96,
+    "chars_raw": "九十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2628,
+   "name": "天香",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:天香:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 10,
+     "opt_slots": 0,
+     "pat_min": 96,
+     "pat_total": 96,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对发现 4 处平仄差异（最接近体式《定格》），未裁定 → 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:078:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 13 字",
+      "序": 13
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "声声慢"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:078:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 28 字",
+      "序": 28
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "声声慢"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:078:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 85 字",
+      "序": 85
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "声声慢"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:078:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 86 字",
+      "序": 86
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "声声慢"
+    },
+    {
+     "A 源判定": "10 韵",
+     "A源体式": "定格",
+     "B 源判定": "9 韵",
+     "B源条目": "B:078:1",
+     "kind": "韵位数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级（韵位属归一表示的一部分）",
+     "裁定人": "未裁定",
+     "词牌": "声声慢"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "九十七字",
+      97
+     ]
+    ],
+    "chars": 97,
+    "chars_raw": "九十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 2656,
+   "name": "声声慢",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:声声慢:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 97,
+     "pat_total": 97,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十六字",
+      96
+     ]
+    ],
+    "chars": 96,
+    "chars_raw": "九十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2680,
+   "name": "黄莺儿",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:黄莺儿:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 96,
+     "pat_total": 96,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十六字",
+      96
+     ]
+    ],
+    "chars": 96,
+    "chars_raw": "九十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "八仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2704,
+   "name": "剑器近",
+   "rhyme_types": [
+    "八仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:剑器近:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 96,
+     "pat_total": 96,
+     "repeat_marks": 0,
+     "rhyme_desc": "八仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十七字",
+      97
+     ]
+    ],
+    "chars": 97,
+    "chars_raw": "九十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2730,
+   "name": "醉蓬莱",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:醉蓬莱:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 97,
+     "pat_total": 97,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "红情"
+   ],
+   "basis": "归一比对发现 5 处平仄差异（最接近体式《定格》），未裁定 → 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:097:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 3 字",
+      "序": 3
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "暗香"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:097:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 18 字",
+      "序": 18
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "暗香"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:097:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 53 字",
+      "序": 53
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "暗香"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:097:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 61 字",
+      "序": 61
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "暗香"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:097:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 96 字",
+      "序": 96
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "暗香"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "九十七字",
+      97
+     ],
+     [
+      "五字",
+      5
+     ],
+     [
+      "六字",
+      6
+     ]
+    ],
+    "chars": 97,
+    "chars_raw": "九十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 2754,
+   "name": "暗香",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:暗香:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 97,
+     "pat_total": 97,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十七字",
+      97
+     ]
+    ],
+    "chars": 97,
+    "chars_raw": "九十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "六仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2784,
+   "name": "长亭怨慢",
+   "rhyme_types": [
+    "六仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 1,
+     "id": "A:长亭怨慢:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 97,
+     "pat_total": 97,
+     "repeat_marks": 0,
+     "rhyme_desc": "六仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:双双燕:1 ↔ B:B:064:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十八字",
+      98
+     ]
+    ],
+    "chars": 98,
+    "chars_raw": "九十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2810,
+   "name": "双双燕",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:双双燕:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 98,
+     "pat_total": 98,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "燕山亭"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十九字",
+      99
+     ]
+    ],
+    "chars": 99,
+    "chars_raw": "九十九字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2838,
+   "name": "宴山亭",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:宴山亭:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 99,
+     "pat_total": 99,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "百字令"
+   ],
+   "aliases": [
+    "百字令",
+    "酹江月",
+    "大江东去",
+    "壶中天",
+    "湘月"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:念奴娇:1 ↔ B:B:087:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "百字",
+      100
+     ],
+     [
+      "一百字",
+      100
+     ]
+    ],
+    "chars": 100,
+    "chars_raw": "百字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2878,
+   "name": "念奴娇",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 3,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:念奴娇:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 100,
+     "pat_total": 100,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:念奴娇:2",
+     "kind": "变体",
+     "label": "变格一",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 100,
+     "pat_total": 100,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:念奴娇:3",
+     "kind": "变体",
+     "label": "平韵格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 100,
+     "pat_total": 100,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百字",
+      100
+     ]
+    ],
+    "chars": 100,
+    "chars_raw": "一百字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "八仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2944,
+   "name": "绕佛阁",
+   "rhyme_types": [
+    "八仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:绕佛阁:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 11,
+     "opt_slots": 0,
+     "pat_min": 100,
+     "pat_total": 100,
+     "repeat_marks": 0,
+     "rhyme_desc": "八仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百字",
+      100
+     ],
+     [
+      "四字",
+      4
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 100,
+    "chars_raw": "一百字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "六仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 2974,
+   "name": "绛都春",
+   "rhyme_types": [
+    "六仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:绛都春:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 100,
+     "pat_total": 100,
+     "repeat_marks": 0,
+     "rhyme_desc": "六仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "疏帘淡月"
+   ],
+   "aliases": [
+    "疏帘淡月"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:桂枝香:1 ↔ B:B:026:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百一字",
+      101
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 101,
+    "chars_raw": "一百一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3004,
+   "name": "桂枝香",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:桂枝香:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 101,
+     "pat_total": 101,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对发现 1 处平仄差异（最接近体式《定格》），未裁定 → 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:100:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 12 字",
+      "序": 12
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "翠楼吟"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "一百一字",
+      101
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 101,
+    "chars_raw": "一百一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "六仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 3030,
+   "name": "翠楼吟",
+   "rhyme_types": [
+    "六仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:翠楼吟:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 10,
+     "opt_slots": 0,
+     "pat_min": 101,
+     "pat_total": 101,
+     "repeat_marks": 0,
+     "rhyme_desc": "六仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百一字",
+      101
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 101,
+    "chars_raw": "一百一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "七仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3058,
+   "name": "霓裳中序第一",
+   "rhyme_types": [
+    "七仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:霓裳中序第一:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 11,
+     "opt_slots": 0,
+     "pat_min": 101,
+     "pat_total": 101,
+     "repeat_marks": 0,
+     "rhyme_desc": "七仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "龙吟曲"
+   ],
+   "aliases": [
+    "龙吟曲",
+    "庄椿岁",
+    "小楼连苑"
+   ],
+   "basis": "B 源有同名多条条目（3 条），体式对应关系未裁定，暂降级",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百二字",
+      102
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 102,
+    "chars_raw": "一百二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 3105,
+   "name": "水龙吟",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:水龙吟:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 102,
+     "pat_total": 102,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:水龙吟:2",
+     "kind": "变体",
+     "label": "变格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 102,
+     "pat_total": 102,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "石州引"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百二字",
+      102
+     ]
+    ],
+    "chars": 102,
+    "chars_raw": "一百二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3147,
+   "name": "石州慢",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:石州慢:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 102,
+     "pat_total": 102,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:石州慢:2",
+     "kind": "变体",
+     "label": "变格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 102,
+     "pat_total": 102,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对发现 7 处平仄差异（最接近体式《格二》），未裁定 → 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "格二",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:066:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 23 字",
+      "序": 23
+     },
+     "体式": "格二",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "瑞鹤仙"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "格二",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:066:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 29 字",
+      "序": 29
+     },
+     "体式": "格二",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "瑞鹤仙"
+    },
+    {
+     "A 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "A源体式": "格二",
+     "B 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "B源条目": "B:066:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 35 字",
+      "序": 35
+     },
+     "体式": "格二",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "瑞鹤仙"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "格二",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:066:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 53 字",
+      "序": 53
+     },
+     "体式": "格二",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "瑞鹤仙"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "格二",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:066:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 78 字",
+      "序": 78
+     },
+     "体式": "格二",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "瑞鹤仙"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "格二",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:066:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 80 字",
+      "序": 80
+     },
+     "体式": "格二",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "瑞鹤仙"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "格二",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:066:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 84 字",
+      "序": 84
+     },
+     "体式": "格二",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "瑞鹤仙"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "一百二字",
+      102
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 102,
+    "chars_raw": "一百二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "七仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": false,
+   "head_line": 3201,
+   "name": "瑞鹤仙",
+   "rhyme_types": [
+    "七仄韵"
+   ],
+   "variant_count": 3,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:瑞鹤仙:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 102,
+     "pat_total": 102,
+     "repeat_marks": 0,
+     "rhyme_desc": "七仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:瑞鹤仙:2",
+     "kind": "变体",
+     "label": "格二",
+     "line_count": 11,
+     "opt_slots": 0,
+     "pat_min": 102,
+     "pat_total": 102,
+     "repeat_marks": 0,
+     "rhyme_desc": "七仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:瑞鹤仙:3",
+     "kind": "变体",
+     "label": "格三",
+     "line_count": 11,
+     "opt_slots": 0,
+     "pat_min": 103,
+     "pat_total": 103,
+     "repeat_marks": 0,
+     "rhyme_desc": "七仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百二字",
+      102
+     ]
+    ],
+    "chars": 102,
+    "chars_raw": "一百二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3273,
+   "name": "宴清都",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:宴清都:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 102,
+     "pat_total": 102,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "台城路"
+   ],
+   "aliases": [
+    "台城路",
+    "五福降中天",
+    "如此江山"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:齐天乐:1 ↔ B:B:060:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百二字",
+      102
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 102,
+    "chars_raw": "一百二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "六仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3307,
+   "name": "齐天乐",
+   "rhyme_types": [
+    "六仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:齐天乐:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 10,
+     "opt_slots": 0,
+     "pat_min": 102,
+     "pat_total": 102,
+     "repeat_marks": 0,
+     "rhyme_desc": "六仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百三字",
+      103
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 103,
+    "chars_raw": "一百三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3341,
+   "name": "雨霖铃",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:雨霖铃:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 103,
+     "pat_total": 103,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "百宜娇"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百三字",
+      103
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 103,
+    "chars_raw": "一百三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3368,
+   "name": "眉妩",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:眉妩:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 103,
+     "pat_total": 103,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "B 源 105 字，A 源该调 1 个体式字数均不符（104）→ 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": "定格 104",
+     "B 源判定": "105 字（B:069:1）",
+     "kind": "字数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "永遇乐"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "一百四字",
+      104
+     ]
+    ],
+    "chars": 104,
+    "chars_raw": "一百四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 3402,
+   "name": "永遇乐",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:永遇乐:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 104,
+     "pat_total": 104,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百四字",
+      104
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 104,
+    "chars_raw": "一百四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3426,
+   "name": "二郎神",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:二郎神:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 104,
+     "pat_total": 104,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百四字",
+      104
+     ]
+    ],
+    "chars": 104,
+    "chars_raw": "一百四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3450,
+   "name": "拜星月慢",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:拜星月慢:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 104,
+     "pat_total": 104,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百五字",
+      105
+     ]
+    ],
+    "chars": 105,
+    "chars_raw": "一百五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3474,
+   "name": "西河",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:西河:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 10,
+     "opt_slots": 0,
+     "pat_min": 105,
+     "pat_total": 105,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百五字",
+      105
+     ]
+    ],
+    "chars": 105,
+    "chars_raw": "一百五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3502,
+   "name": "西吴曲",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:西吴曲:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 105,
+     "pat_total": 105,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百六字",
+      106
+     ],
+     [
+      "一字",
+      1
+     ]
+    ],
+    "chars": 106,
+    "chars_raw": "一百六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3526,
+   "name": "望远行",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:望远行:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 106,
+     "pat_total": 106,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "绿意"
+   ],
+   "basis": "归一比对发现 2 处平仄差异（最接近体式《定格》），未裁定 → 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:073:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 6 字",
+      "序": 6
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "疏影"
+    },
+    {
+     "A 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "B源条目": "B:073:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 80 字",
+      "序": 80
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "疏影"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "一百十字",
+      110
+     ]
+    ],
+    "chars": 110,
+    "chars_raw": "一百十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 3550,
+   "name": "疏影",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:疏影:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 9,
+     "opt_slots": 0,
+     "pat_min": 110,
+     "pat_total": 110,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "买陂塘"
+   ],
+   "aliases": [
+    "摸鱼子",
+    "买陂塘",
+    "迈陂塘",
+    "双蕖怨"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:摸鱼儿:1 ↔ B:B:090:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百十六字",
+      116
+     ],
+     [
+      "十字",
+      10
+     ],
+     [
+      "一字",
+      1
+     ],
+     [
+      "一字",
+      1
+     ],
+     [
+      "十字",
+      10
+     ]
+    ],
+    "chars": 116,
+    "chars_raw": "一百十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "六仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3582,
+   "name": "摸鱼儿",
+   "rhyme_types": [
+    "六仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:摸鱼儿:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 10,
+     "opt_slots": 0,
+     "pat_min": 116,
+     "pat_total": 116,
+     "repeat_marks": 0,
+     "rhyme_desc": "六仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "金缕曲"
+   ],
+   "aliases": [
+    "金缕曲",
+    "乳燕飞",
+    "貂裘换酒"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:贺新郎:1 ↔ B:B:056:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百十六字",
+      116
+     ]
+    ],
+    "chars": 116,
+    "chars_raw": "一百十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "六仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3624,
+   "name": "贺新郎",
+   "rhyme_types": [
+    "六仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:贺新郎:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 12,
+     "opt_slots": 0,
+     "pat_min": 116,
+     "pat_total": 116,
+     "repeat_marks": 0,
+     "rhyme_desc": "六仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一字",
+      1
+     ],
+     [
+      "一百三十字",
+      130
+     ]
+    ],
+    "chars": 130,
+    "chars_raw": "一百三十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "七仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3664,
+   "name": "兰陵王",
+   "rhyme_types": [
+    "七仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:兰陵王:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 14,
+     "opt_slots": 0,
+     "pat_min": 130,
+     "pat_total": 130,
+     "repeat_marks": 0,
+     "rhyme_desc": "七仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "去声韵）"
+   ],
+   "basis": "A 源无谱（仅清单登记），不得作为机器校验依据",
+   "conflicts": [],
+   "declared": {
+    "candidates": [],
+    "chars": null,
+    "chars_raw": null,
+    "rhyme_desc": null
+   },
+   "grade": "二等",
+   "has_dingge": false,
+   "head_line": 3701,
+   "name": "变格（上",
+   "rhyme_types": [],
+   "variant_count": 0,
+   "variants": []
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百四十字",
+      140
+     ]
+    ],
+    "chars": 140,
+    "chars_raw": "一百四十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "八仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3743,
+   "name": "六丑",
+   "rhyme_types": [
+    "八仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:六丑:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 17,
+     "opt_slots": 0,
+     "pat_min": 140,
+     "pat_total": 140,
+     "repeat_marks": 0,
+     "rhyme_desc": "八仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "百四十四字",
+      144
+     ]
+    ],
+    "chars": 144,
+    "chars_raw": "百四十四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3789,
+   "name": "夜半乐",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:夜半乐:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 13,
+     "opt_slots": 0,
+     "pat_min": 144,
+     "pat_total": 144,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "百五十七字",
+      157
+     ]
+    ],
+    "chars": 157,
+    "chars_raw": "百五十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3823,
+   "name": "宝鼎现",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:宝鼎现:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 14,
+     "opt_slots": 0,
+     "pat_min": 157,
+     "pat_total": 157,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:宝鼎现:2",
+     "kind": "变体",
+     "label": "变格",
+     "line_count": 16,
+     "opt_slots": 0,
+     "pat_min": 157,
+     "pat_total": 157,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "二百四十字",
+      240
+     ]
+    ],
+    "chars": 240,
+    "chars_raw": "二百四十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3893,
+   "name": "莺啼序",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:莺啼序:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 16,
+     "opt_slots": 0,
+     "pat_min": 240,
+     "pat_total": 240,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "B 源收的是该调《格三》（56 字），与 A 源《定格》不同体，不构成平仄冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "二十七字",
+      27
+     ],
+     [
+      "五十六字",
+      56
+     ]
+    ],
+    "chars": 56,
+    "chars_raw": "五十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": false,
+   "head_line": 3939,
+   "name": "南乡子",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 3,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:南乡子:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 2,
+     "opt_slots": 0,
+     "pat_min": 27,
+     "pat_total": 27,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:南乡子:2",
+     "kind": "变体",
+     "label": "格二",
+     "line_count": 2,
+     "opt_slots": 0,
+     "pat_min": 30,
+     "pat_total": 30,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:南乡子:3",
+     "kind": "变体",
+     "label": "格三",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 56,
+     "pat_total": 56,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十一字",
+      31
+     ]
+    ],
+    "chars": 31,
+    "chars_raw": "三十一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 3967,
+   "name": "蕃女怨",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:蕃女怨:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 31,
+     "pat_total": 31,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "古调笑",
+    "转应曲"
+   ],
+   "aliases": [
+    "古调笑",
+    "宫中调笑",
+    "调啸词",
+    "转应曲",
+    "调笑转踏"
+   ],
+   "basis": "归一比对发现 4 处平仄差异（最接近体式《定格》），未裁定 → 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:003:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 9 字",
+      "序": 9
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "调笑令"
+    },
+    {
+     "A 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "B源条目": "B:003:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 18 字",
+      "序": 18
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "调笑令"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:003:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 19 字",
+      "序": 19
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "调笑令"
+    },
+    {
+     "A 源判定": {
+      "symbol": "Z",
+      "义": "定仄"
+     },
+     "A源体式": "定格",
+     "B 源判定": {
+      "symbol": "P",
+      "义": "定平"
+     },
+     "B源条目": "B:003:1",
+     "kind": "平仄不一致",
+     "位置": {
+      "字位": "第 20 字",
+      "序": 20
+     },
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "调笑令"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "三十二字",
+      32
+     ],
+     [
+      "三十八字",
+      38
+     ]
+    ],
+    "chars": 38,
+    "chars_raw": "三十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 3989,
+   "name": "调笑令",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:调笑令:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 32,
+     "pat_total": 32,
+     "repeat_marks": 2,
+     "rhyme_desc": "四仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:调笑令:2",
+     "kind": "变体",
+     "label": "变格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 38,
+     "pat_total": 38,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "宴西园"
+   ],
+   "aliases": [
+    "宴西园",
+    "一痕沙"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:昭君怨:1 ↔ B:B:053:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十字",
+      40
+     ]
+    ],
+    "chars": 40,
+    "chars_raw": "四十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": null
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4014,
+   "name": "昭君怨",
+   "rhyme_types": [],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:昭君怨:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 40,
+     "pat_total": 40,
+     "repeat_marks": 0,
+     "rhyme_desc": null
+    }
+   ]
+  },
+  {
+   "aka": [
+    "子夜歌"
+   ],
+   "aliases": [
+    "子夜歌",
+    "重叠金"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:菩萨蛮:1 ↔ B:B:001:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十四字",
+      44
+     ]
+    ],
+    "chars": 44,
+    "chars_raw": "四十四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": null
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4036,
+   "name": "菩萨蛮",
+   "rhyme_types": [],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:菩萨蛮:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 44,
+     "pat_total": 44,
+     "repeat_marks": 0,
+     "rhyme_desc": null
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:更漏子:1 ↔ B:B:005:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十六字",
+      46
+     ]
+    ],
+    "chars": 46,
+    "chars_raw": "四十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4057,
+   "name": "更漏子",
+   "rhyme_types": [
+    "三仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:更漏子:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 5,
+     "opt_slots": 0,
+     "pat_min": 46,
+     "pat_total": 46,
+     "repeat_marks": 0,
+     "rhyme_desc": "三仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "鹤冲天"
+   ],
+   "aliases": [
+    "鹤冲天",
+    "万年枝",
+    "喜迁莺令",
+    "燕归梁"
+   ],
+   "basis": "B 源 103 字，A 源该调 1 个体式字数均不符（47）→ 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": "定格 47",
+     "B 源判定": "103 字（B:063:1）",
+     "kind": "字数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "喜迁莺"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "四十七字",
+      47
+     ]
+    ],
+    "chars": 47,
+    "chars_raw": "四十七字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "二等",
+   "has_dingge": true,
+   "head_line": 4075,
+   "name": "喜迁莺",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:喜迁莺:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 47,
+     "pat_total": 47,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "忆萝月"
+   ],
+   "aliases": [
+    "忆萝月",
+    "醉东风"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:清平乐:1 ↔ B:B:034:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十六字",
+      46
+     ]
+    ],
+    "chars": 46,
+    "chars_raw": "四十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4097,
+   "name": "清平乐",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:清平乐:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 46,
+     "pat_total": 46,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十九字",
+      49
+     ]
+    ],
+    "chars": 49,
+    "chars_raw": "四十九字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": null
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4113,
+   "name": "忆馀杭",
+   "rhyme_types": [],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:忆馀杭:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 49,
+     "pat_total": 49,
+     "repeat_marks": 0,
+     "rhyme_desc": null
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十九字",
+      49
+     ]
+    ],
+    "chars": 49,
+    "chars_raw": "四十九字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4127,
+   "name": "河渎神",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:河渎神:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 49,
+     "pat_total": 49,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "B 源 62 字，A 源该调 2 个体式字数均不符（55/54）→ 降级（D13）",
+   "conflicts": [
+    {
+     "A 源判定": "格一 55/格二 54",
+     "B 源判定": "62 字（B:041:1）",
+     "kind": "字数不一致",
+     "位置": null,
+     "体式": "定格",
+     "处置": "降级（D13：不择一为准）",
+     "裁定人": "未裁定",
+     "词牌": "河传"
+    }
+   ],
+   "declared": {
+    "candidates": [
+     [
+      "五十五字",
+      55
+     ],
+     [
+      "五十四字",
+      54
+     ]
+    ],
+    "chars": 54,
+    "chars_raw": "五十四字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "二等",
+   "has_dingge": false,
+   "head_line": 4143,
+   "name": "河传",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:河传:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 5,
+     "opt_slots": 0,
+     "pat_min": 55,
+     "pat_total": 55,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:河传:2",
+     "kind": "变体",
+     "label": "格二",
+     "line_count": 7,
+     "opt_slots": 0,
+     "pat_min": 54,
+     "pat_total": 54,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "B 源收的是该调《格一》（56 字），与 A 源《定格》不同体，不构成平仄冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十六字",
+      56
+     ],
+     [
+      "五十八字",
+      58
+     ]
+    ],
+    "chars": 58,
+    "chars_raw": "五十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": false,
+   "head_line": 4182,
+   "name": "虞美人",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:虞美人:1",
+     "kind": "变体",
+     "label": "格一",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 56,
+     "pat_total": 56,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:虞美人:2",
+     "kind": "变体",
+     "label": "格二",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 58,
+     "pat_total": 58,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "步虚词"
+   ],
+   "aliases": [
+    "步虚词",
+    "江月令"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:西江月:1 ↔ B:B:025:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "五十字",
+      50
+     ]
+    ],
+    "chars": 50,
+    "chars_raw": "五十字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "一仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4212,
+   "name": "西江月",
+   "rhyme_types": [
+    "一仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 1,
+     "id": "A:西江月:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 50,
+     "pat_total": 50,
+     "repeat_marks": 0,
+     "rhyme_desc": "一仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "九十一字",
+      91
+     ]
+    ],
+    "chars": 91,
+    "chars_raw": "九十一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "十平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4228,
+   "name": "醉翁操",
+   "rhyme_types": [
+    "十平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:醉翁操:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 91,
+     "pat_total": 91,
+     "repeat_marks": 0,
+     "rhyme_desc": "十平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "三犯渡江云"
+   ],
+   "aliases": [
+    "三犯渡江云"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百字",
+      100
+     ]
+    ],
+    "chars": 100,
+    "chars_raw": "一百字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4253,
+   "name": "渡江云",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:渡江云:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 8,
+     "opt_slots": 0,
+     "pat_min": 100,
+     "pat_total": 100,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "一百五字",
+      105
+     ]
+    ],
+    "chars": 105,
+    "chars_raw": "一百五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4277,
+   "name": "曲玉管",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:曲玉管:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 7,
+     "opt_slots": 0,
+     "pat_min": 105,
+     "pat_total": 105,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "二百三字",
+      203
+     ]
+    ],
+    "chars": 203,
+    "chars_raw": "二百三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4299,
+   "name": "哨遍",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:哨遍:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 19,
+     "opt_slots": 0,
+     "pat_min": 203,
+     "pat_total": 203,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "二百十二字",
+      212
+     ]
+    ],
+    "chars": 212,
+    "chars_raw": "二百十二字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "九平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4347,
+   "name": "戚氏",
+   "rhyme_types": [
+    "九平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:戚氏:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 21,
+     "opt_slots": 0,
+     "pat_min": 212,
+     "pat_total": 212,
+     "repeat_marks": 0,
+     "rhyme_desc": "九平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "二十三字",
+      23
+     ],
+     [
+      "四字",
+      4
+     ]
+    ],
+    "chars": 23,
+    "chars_raw": "二十三字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4397,
+   "name": "荷叶杯",
+   "rhyme_types": [
+    "四仄韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:荷叶杯:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 2,
+     "opt_slots": 0,
+     "pat_min": 23,
+     "pat_total": 23,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:荷叶杯:2",
+     "kind": "变体",
+     "label": "变格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 50,
+     "pat_total": 50,
+     "repeat_marks": 0,
+     "rhyme_desc": "四仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十五字",
+      35
+     ]
+    ],
+    "chars": 35,
+    "chars_raw": "三十五字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4419,
+   "name": "定西番",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:定西番:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 35,
+     "pat_total": 35,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [
+    "圣无忧"
+   ],
+   "aliases": [
+    "乌夜啼",
+    "秋夜月",
+    "上西楼"
+   ],
+   "basis": "归一比对无平仄/字数/韵位冲突（A:A:相见欢:1 ↔ B:B:009:1）",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十六字",
+      36
+     ],
+     [
+      "二字",
+      2
+     ],
+     [
+      "四十七字",
+      47
+     ],
+     [
+      "四十八字",
+      48
+     ],
+     [
+      "四十八字",
+      48
+     ]
+    ],
+    "chars": 36,
+    "chars_raw": "三十六字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4437,
+   "name": "相见欢",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:相见欢:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 36,
+     "pat_total": 36,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "三十八字",
+      38
+     ]
+    ],
+    "chars": 38,
+    "chars_raw": "三十八字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "五仄韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4455,
+   "name": "上行杯",
+   "rhyme_types": [
+    "五仄韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:上行杯:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 3,
+     "opt_slots": 0,
+     "pat_min": 38,
+     "pat_total": 38,
+     "repeat_marks": 0,
+     "rhyme_desc": "五仄韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "四十一字",
+      41
+     ]
+    ],
+    "chars": 41,
+    "chars_raw": "四十一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4469,
+   "name": "酒泉子",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:酒泉子:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 5,
+     "opt_slots": 0,
+     "pat_min": 41,
+     "pat_total": 41,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [
+    "定风波令"
+   ],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "六十二字",
+      62
+     ],
+     [
+      "九十九字",
+      99
+     ]
+    ],
+    "chars": 99,
+    "chars_raw": "九十九字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "三平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4493,
+   "name": "定风波",
+   "rhyme_types": [
+    "三平韵"
+   ],
+   "variant_count": 2,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:定风波:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 4,
+     "opt_slots": 0,
+     "pat_min": 62,
+     "pat_total": 62,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    },
+    {
+     "declared_ok": null,
+     "duizhang_marks": 0,
+     "id": "A:定风波:2",
+     "kind": "变体",
+     "label": "长调",
+     "line_count": 13,
+     "opt_slots": 0,
+     "pat_min": 99,
+     "pat_total": 99,
+     "repeat_marks": 0,
+     "rhyme_desc": "三平韵"
+    }
+   ]
+  },
+  {
+   "aka": [],
+   "aliases": [],
+   "basis": "A 源有谱；B 源未收该调，无从比对，不构成冲突",
+   "conflicts": [],
+   "declared": {
+    "candidates": [
+     [
+      "八十一字",
+      81
+     ]
+    ],
+    "chars": 81,
+    "chars_raw": "八十一字",
+    "picked_by": "nearest_to_pat_total",
+    "rhyme_desc": "四平韵"
+   },
+   "grade": "一等",
+   "has_dingge": true,
+   "head_line": 4537,
+   "name": "最高楼",
+   "rhyme_types": [
+    "四平韵"
+   ],
+   "variant_count": 1,
+   "variants": [
+    {
+     "declared_ok": true,
+     "duizhang_marks": 0,
+     "id": "A:最高楼:1",
+     "kind": "定格",
+     "label": "定格",
+     "line_count": 7,
+     "opt_slots": 0,
+     "pat_min": 81,
+     "pat_total": 81,
+     "repeat_marks": 0,
+     "rhyme_desc": "四平韵"
+    }
+   ]
+  }
+ ],
+ "schema_version": "1.0",
+ "source": {
+  "book": "唐宋词格律（龙榆生）",
+  "copyright": "公版（龙榆生 1902-1997 年谱式数据属格律事实，未收录论述文字）",
+  "cross_check": "王力《诗词格律》附録白香谱（B 源，仅谱式数据）",
+  "cross_check_file": "二、格律入门/诗词格律（王力）.md",
+  "extracted_at": "2026-11-20",
+  "file": "三、填词专修/唐宋词格律（龙榆生）.md",
+  "sha256": "sha256:3391a8869434e4daf12384b47767caf99077281886b3dccd771541d7e065fcbe",
+  "声明": "谱式数据据通行词谱整理；未收录任何现代整理本的论述文字。"
+ },
+ "summary": {
+  "disclosure": {
+   "banned": "不得单独说「本谱共 N 调」而不注明口径；不得把 208 / 201 / 155 中的任一数字直接称作「词牌数」；不得只报「体式头 63」而不说明其中含分片描述头与韵格描述头。",
+   "formula": "208 标题 = 145 词牌头 + 63 体式头；201 体式 = 138 定格 + 63 变体",
+   "required": "凡引用词牌数量，必须同时给出三个口径：208 标题数（=145 词牌头 + 63 体式头）、201 体式（=138 定格 + 63 变体）、155 词牌去重正名（裁决书写 156）。三者不可混用，混用即判错。"
+  },
+  "互稽": {
+   "体式总数 = 定格 + 变体": true,
+   "标题数 = 词牌头 + 体式头": true
+  },
+  "体式头双口径": {
+   "可复现性": "63 可复现（= 全部非定格体式头，实测 63）；54 无法由任何单一显式规则从源数据复现——最接近的两种规则分别得 58 与 53，均不等于 54。差集已逐条列出，待构思方给出计入口径。",
+   "宽_全部非定格体式头": 63,
+   "排除明细": {
+    "宽_全部非定格体式头": {
+     "count": 63,
+     "excluded": []
+    },
+    "更窄_再排除别格类": {
+     "count": 53,
+     "excluded": [
+      "A:南歌子:2",
+      "A:忆江南:2",
+      "A:江城子:2",
+      "A:诉衷情:2",
+      "A:柳梢青:2",
+      "A:少年游:2",
+      "A:少年游:3",
+      "A:少年游:4",
+      "A:念奴娇:3",
+      "A:定风波:2"
+     ]
+    },
+    "窄_排除分片与韵格描述头": {
+     "count": 58,
+     "excluded": [
+      "A:南歌子:2",
+      "A:忆江南:2",
+      "A:江城子:2",
+      "A:念奴娇:3",
+      "A:定风波:2"
+     ]
+    }
+   },
+   "更窄_再排除别格类": 53,
+   "构思方口径": 54,
+   "架构师口径": 63,
+   "窄_排除分片与韵格描述头": 58
+  },
+  "去重正名分歧": {
+   "处置": "以实测 155 为准；文档写「约 156」并标注 Phase 3 实测回填 155",
+   "实测": 155,
+   "差": 1,
+   "裁决书": 156
+  },
+  "口径": {
+   "体式头": 63,
+   "体式总数": 201,
+   "变体": 63,
+   "定格": 138,
+   "标题数": 208,
+   "词牌去重正名": 155,
+   "词牌头": 145
+  },
+  "无定格词牌数": 17,
+  "无定格说明": "源文件对部分词牌不标【定格】，其正格取该调首个体式头，等级与字数自检口径另注"
+ }
+}
